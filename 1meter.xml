@@ -35,4 +35,10 @@
       </block>
     </next>
   </block>
+  <block type="controls_whileUntil" id="100" inline="false" x="327" y="19">
+    <field name="MODE">UNTIL</field>
+  </block>
+  <block type="multimedia_playwav" id="107" x="309" y="210">
+    <field name="WAV"></field>
+  </block>
 </xml>
